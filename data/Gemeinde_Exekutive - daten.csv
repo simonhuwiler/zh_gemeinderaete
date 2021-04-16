@@ -124,11 +124,11 @@ Hüttikon,"Beatrice Derrer, geb. 1972, SVP",Beatrice Derrer,1972,w,SVP,chair,,,,
 Hüttikon,"Thomas Lüssi, geb. 1960, parteilos",Thomas Lüssi,1960,m,parteilos,,,,,x
 Hüttikon,"Andrea Landolt, geb. 1978, parteilos",Andrea Landolt,1978,w,parteilos,,,,,x
 Hüttikon,"Oliver Wiederkehr, geb. 1980, parteilos",Oliver Wiederkehr,1980,m,parteilos,,,,,x
-Neerach,MARKUS ZINK,MARKUS ZINK,1947,m,parteilos,chair,,,,x
-Neerach,MARTIN ENGELHARD,MARTIN ENGELHARD,1969,m,parteilos,,,,,x
-Neerach,KARL-HEINZ MEYER,KARL-HEINZ MEYER,1962,m,SVP,,,,,x
-Neerach,SALLY ALBRECHT,SALLY ALBRECHT,1960,w,parteilos,,,,,x
-Neerach,WILLY BREITER,WILLY BREITER,1965,m,parteilos,,,,,x
+Neerach,MARKUS ZINK,Markus Zink,1947,m,parteilos,chair,,,,x
+Neerach,MARTIN ENGELHARD,Martin Engelhard,1969,m,parteilos,,,,,x
+Neerach,KARL-HEINZ MEYER,Karl-Heinz Meyer,1962,m,SVP,,,,,x
+Neerach,SALLY ALBRECHT,Sally Albrecht,1960,w,parteilos,,,,,x
+Neerach,WILLY BREITER,Willy Breiter,1965,m,parteilos,,,,,x
 Bonstetten,"Leuenberger Erwin, 1948, Partei: keine Angabe auf dem Wahlzettel",Erwin Leuenberger,1948,m,parteilos,chair,,,,x
 Bonstetten,"Kappeler Christina, 1968, Partei: keine Angabe auf dem Wahlzettel",Christina Kappeler,1968,w,parteilos,,,,,x
 Bonstetten,"Reich Markus, 1976, Partei: FDP",Markus Reich,1976,m,FDP,,,,,x
@@ -251,7 +251,7 @@ Neftenbach,"Itin, Silvia",Silvia Itin,1964,w,Freie Wähler Neftenbach,,,,,x
 Neftenbach,"Meier, Peter",Peter Meier,1961,m,glp,,,,,x
 Neftenbach,"Müller, Urs",Urs Müller,1958,m,SVP,,,,,x
 Neftenbach,Walter Feuchter,Walter Feuchter,1966,m,parteilos,school,,,,x
-Neftenbach,"Wuffli, Urs","Wuffli, Urs",1954,m,FDP,,,,,x
+Neftenbach,"Wuffli, Urs",Urs Wuffli,1954,m,FDP,,,,,x
 Freienstein-Teufen,"Oliver Müller, Jg. 1964",Oliver Müller,1964,m,parteilos,chair,,,,x
 Freienstein-Teufen,"Christof Benz, Jg. 1957",Christof Benz,1957,m,SVP,,,,,x
 Freienstein-Teufen,"Simona Hofmann, Jg. 1984",Simona Hofmann,1984,w,parteilos,,,,,x
@@ -359,8 +359,8 @@ Rickenbach (ZH),"Andy Karrer, geb. 1961, Parteilos",Andy Karrer,1961,m,parteilos
 Rickenbach (ZH),"Heidi Fink, geb. 1966, SVP",Heidi Fink,1966,w,SVP,,,,,x
 Rickenbach (ZH),"Ruedi Brugger, geb. 1964, Parteilos",Ruedi Brugger,1964,m,parteilos,chair,,,,x
 Hagenbuch,"Therese Schläpfer, Gemeindepräsidentin, Jg. 1959, SVP",Therese Schläpfer,1959,w,SVP,chair,,,,x
-Hagenbuch,"Bernhard PETER, 1950, parteilos",Bernhard PETER,1950,m,parteilos,,,,,x
-Hagenbuch,"Marcel MICHEL, 1975, SVP",Marcel MICHEL,1975,m,SVP,,,,,x
+Hagenbuch,"Bernhard PETER, 1950, parteilos",Bernhard Peter,1950,m,parteilos,,,,,x
+Hagenbuch,"Marcel MICHEL, 1975, SVP",Marcel Michel,1975,m,SVP,,,,,x
 Hagenbuch,"Claudio Angehrn, 1969, SVP",Claudio Angehrn,1969,m,SVP,,,,,x
 Hagenbuch,"Rafael Seeh, 1989, SVP",Rafael Seeh,1989,m,SVP,,,,,x
 Hagenbuch,"Horst Steinmann, Schulpräsident/Schulvertreter im Gemeinderat, 1958, SP",Horst Steinmann,1958,m,SP,,,,,x
@@ -373,7 +373,7 @@ Weiningen (ZH),"Thomas Mattle, Werkvorstand, Jahrgang 1970, SVP",Thomas Mattle,1
 Weiningen (ZH),"Brigitte Schai, Schulvorstand, Jahrgang 1968, SVP",Brigitte Schai,1968,w,SVP,,,,,x
 Rüschlikon,Egli Simon,Simon Egli,1969,m,FDP,,,,,x
 Rüschlikon,Elsener Bernhard,Bernhard Elsener,1952,m,CVP,chair,,,,x
-Rüschlikon,Fossati Nadja,NadjaFossati,1962,w,parteilos,,,,,x
+Rüschlikon,Fossati Nadja,Nadja Fossati,1962,w,parteilos,,,,,x
 Rüschlikon,Keim Urs,Urs Keim,1955,m,parteilos,,,,,x
 Rüschlikon,Marti Romaine,Romaine Marti,1957,w,FDP,,,,,x
 Rüschlikon,Müller Fabian,Fabian Müller,1977,m,FDP,,,,,x
@@ -397,7 +397,7 @@ Ellikon an der Thur,Bührer Martin,Martin Bührer,1959,m,parteilos,chair,,,,x
 Ellikon an der Thur,Klein Beat,Beat Klein,1969,m,parteilos,,,,,x
 Ellikon an der Thur,Van Duijvenbode Danny,Danny Van Duijvenbode,1957,m,parteilos,,,,,x
 Ellikon an der Thur,Steinmann Peter,Peter Steinmann,1955,m,parteilos,,,,,x
-Ellikon an der Thur,Bader Alfred,AlfredBader,1960,m,parteilos,,,,,x
+Ellikon an der Thur,Bader Alfred,Alfred Bader,1960,m,parteilos,,,,,x
 Niederhasli,Brülhart René – CVP – Jg. 1965,René Brülhart,1965,m,CVP,,,,,x
 Niederhasli,Derrer Hans – SVP – Jg. 1963,Hans Derrer,1963,m,SVP,,,,,x
 Niederhasli,Kurer Marco – FDP – Jg. 1961,Marco Kurer,1961,m,FDP,chair,,,,x
@@ -405,7 +405,7 @@ Niederhasli,Meier Hans – SVP – Jg. 1964,Hans Meier,1964,m,SVP,,,,,x
 Niederhasli,Peter Thomas – FDP – Jg. 1957,Thomas Peter,1957,m,FDP,,,,,x
 Niederhasli,Rogala-Kahlhöfer Karin – SP – Jg. 1963,Karin Rogala-Kahlhöfer,1963,w,SP,,,,,x
 Niederhasli,Stüssi Beatrix – SP – Jg. 1960,Beatrix Stüssi,1960,w,SP,,,,,x
-Hochfelden,"Simone Caneppele, 1973, FoHo Forum offenes Hochfelden",Caneppele Simone,1973,w,FoHo Forum offenes Hochfelden,chair,,,,x
+Hochfelden,"Simone Caneppele, 1973, FoHo Forum offenes Hochfelden",Simone Caneppele,1973,w,FoHo Forum offenes Hochfelden,chair,,,,x
 Hochfelden,"Boris Meyer, 1979, parteilos",Boris Meyer,1979,m,parteilos,,,,,x
 Hochfelden,"Beat Goldmann, 1974, parteilos",Beat Goldmann,1974,m,parteilos,,,,,x
 Hochfelden,"Stefan Bickel, 1976, SVP",Stefan Bickel,1976,m,SVP,,,,,x
@@ -413,7 +413,7 @@ Hochfelden,"Stefan Egger, 1962, SVP",Stefan Egger,1962,m,SVP,,,,,x
 Hinwil,Tezzele Germano,Germano Tezzele,1968,m,SVP,chair,,,,x
 Hinwil,Bühler Andreas,Andreas Bühler,1962,m,SP,,,,,x
 Hinwil,Meier Horst,Horst Meier,1958,m,FDP,,,,,x
-Hinwil,Eberhard Urs,UrsEberhard,1957,m,FDP,,,,,x
+Hinwil,Eberhard Urs,Urs Eberhard,1957,m,FDP,,,,,x
 Hinwil,Benedetti Hans,Hans Benedetti ,1949,m,SVP,,,,,x
 Hinwil,Casutt Gabriela,Gabriela Casutt ,1964,w,FDP,,,,,x
 Hinwil,Amstutz Beat,Beat Amstutz,1970,m,SVP,,,,,x
@@ -423,19 +423,19 @@ Flurlingen,"Meister Dominic, 1975,",Dominic Meister,1975,m,parteilos,,,,,x
 Flurlingen,"Renggli Barbara, 1968,",Barbara Renggli,1968,w,parteilos,,,,,x
 Flurlingen,"Vanoni Silvia,",Silvia Vanoni,1957,w,parteilos,,,,,x
 Dorf,"Eisele Patric, Jahrgang 1967, parteilos",Patric Eisele,1967,m,parteilos,chair,,,,x
-Dorf,"Rüttimann Walter, Jahrgang 1967, parteilos",WalterRüttimann,1967,m,parteilos,,,,,x
+Dorf,"Rüttimann Walter, Jahrgang 1967, parteilos",Walter Rüttimann,1967,m,parteilos,,,,,x
 Dorf,"Burri Markus, Jahrgang 1950, parteilos",Markus Burri,1950,m,parteilos,,,,,x
 Dorf,"Fischer Cornelia, Jahrgang 1957, parteilos",Cornelia Fischer,1957,w,parteilos,,,,,x
 Dorf,"Theiler Daniela, Jahrgang 1976, parteilos",Daniela Theiler,1976,w,parteilos,,,,,x
 Rheinau,"Andreas Jenni, Präsident, 1961, SP",Andreas Jenn,1961,m,SP,chair,,,,x
 Rheinau,"Roman Cibolini, 1967, SVP",Roman Cibolini,1967,m,SVP,,,,,x
-Rheinau,"Karin Eigenheer, 1965, SP",Karin Eigenheer,1965,m,SP,,,,,x
-Rheinau,"Zwahlen Lazzarotto, Adrian",Zwahlen Lazzarotto,1979,m,SVP,,,,,x
+Rheinau,"Karin Eigenheer, 1965, SP",Karin Eigenheer,1965,w,SP,,,,,x
+Rheinau,"Zwahlen Lazzarotto, Adrian",Lazzarotto Zwahlen,1979,m,SVP,,,,,x
 Rheinau,"Jürg Ziegler, 1967, Parteilos",Jürg Ziegler,1967,m,parteilos,,,,,x
-Weisslingen,Andrea Conzett: 26.10.1961,Andrea Conzett,1961,m,WF,chair,,,,x
+Weisslingen,Andrea Conzett: 26.10.1961,Andrea Conzett,1961,m,WF,chair,Ist männlich!,,,x
 Weisslingen,Pascal Martin: 20.07.1966,Pascal Martin,1966,m,SVP,,,,,x
 Weisslingen,Patrick Geiser: 09.10.1977,Patrick Geiser,1977,m,WF,,,,,x
-Weisslingen,Wangler Clemens: 30.12.1951,Wangler Clemens,1951,m,WF,,,,,x
+Weisslingen,Wangler Clemens: 30.12.1951,Clemens Wangler,1951,m,WF,,,,,x
 Weisslingen,Marianne Bachofner: 22.03.1962,Marianne Bachofner,1962,w,parteilos,,,,,x
 Weisslingen,René Werren: 13.09.1965,René Werren,1965,m,SVP,,,,,x
 Mönchaltorf,Urs Graf,Urs Graf,1960,m,FDP,chair,Eine Stelle vakant,,,x
@@ -503,7 +503,7 @@ Henggart,"Erdmann-von Moos, Astrid",Astrid Erdmann-von Moos,1958,w,parteilos,,,,
 Henggart,"Schwarz, Eveline",Eveline Schwarz,1966,w,parteilos,,,,,x
 Henggart,"Wyler, Andreas",Andreas Wyler,1973,m,parteilos,,,,,x
 Henggart,"Strolz, Andreas",Andreas Strolz,,m,parteilos,,,,,x
-Glattfelden,"Ernst, Gassmann, FDP, Jahrgang 1951","Ernst, Gassmann",1951,m,FDP,chair,,,,x
+Glattfelden,"Ernst, Gassmann, FDP, Jahrgang 1951",Ernst Gassmann,1951,m,FDP,chair,,,,x
 Glattfelden,"Marco Dindo, SVP, Jahrgang 1964",Marco Dindo,1964,m,SVP,,,,,x
 Glattfelden,"René Gasser, FDP, Jahrgang 1970",René Gasser,1970,m,FDP,,,,,x
 Glattfelden,"Michèle Dünki, SP, Jahrgang 1989",Michèle Dünki,1989,w,SP,,,,,x
@@ -516,7 +516,7 @@ Uetikon am See,Heidi Mühlemann,Heidi Mühlemann,1953,w,parteilos,,,,,x
 Uetikon am See,Felix Weber,Felix Weber,1957,m,SVP,,,,,x
 Uetikon am See,Hubert Beerli,Hubert Beerli,1962,m,FDP,,,,,x
 Uetikon am See,Marianne Röhricht,Marianne Röhricht,1970,w,parteilos,,,,,x
-Uetikon am See,Breitenmoser Thomas,Breitenmoser Thomas,1968,m,FDP,,,,,x
+Uetikon am See,Breitenmoser Thomas,Thomas Breitenmoser,1968,m,FDP,,,,,x
 Bäretswil,Megliola Teodoro,Teodoro Megliola,1976,m,parteilos,chair,,,,x
 Bäretswil,Dietrich Lisa,Lisa Dietrich,1961,w,SVP,,,,,x
 Bäretswil,Schoch Gübeli Barbara,Barbara Schoch Gübeli,1979,w,FDP,,,,,x
@@ -554,8 +554,7 @@ Ressort Bildung",Lukas Leibundgut,1976,m,SVP,,,,,x
 Dürnten,"Roman Braun
 Ressort Infrastruktur",Roman Braun,1987,m,parteilos,,,,,x
 Dürnten,"Urs Roth
-Ressort Liegenschaften + Kultur","Urs Roth
-Ressort Liegenschaften + Kultur",1969,m,parteilos,,,,,x
+Ressort Liegenschaften + Kultur",Urs Roth,1969,m,parteilos,,,,,x
 Küsnacht (ZH),Markus Ernst,Markus Ernst,1972,m,FDP,chair,,,,x
 Küsnacht (ZH),Klemens Empting,Klemens Empting,1953,m,FDP,,,,,x
 Küsnacht (ZH),Ueli Erb,Ueli Erb,1956,m,SVP,,,,,x
@@ -591,7 +590,7 @@ Bubikon,Angele Hans-Christian,Angele Hans-Christian,1957,m,FDP,,,,,x
 Bubikon,"Susanne Berchtold, 1962, Mitglied FDP",Susanne Berchtold,1962,w,FDP,,,,,x
 Bubikon,"Anton Diethelm, 1962, Mitglied CVP",Anton Diethelm,1962,m,CVP,,,,,x
 Bubikon,"Severin Länzlinger, 1984, Mitglied FBV",Severin Länzlinger,1984,m,FBV,,,,,x
-Bubikon,Bürgler Monika,Bürgler Monika,1962,w,parteilos,,,,,x
+Bubikon,Bürgler Monika,Monika Bürgler,1962,w,parteilos,,,,,x
 Maur,Roland Humm,Roland Humm,1958,m,SVP,chair,,,,x
 Maur,Delia Lüthi,Delia Lüthi,1961,w,FDP,,,,,x
 Maur,Felix Senn,Felix Senn,1953,m,SP,,,,,x
@@ -630,7 +629,7 @@ Höri,"-  Christian Meier, Bau- u. Werkvorstand, parteilos, Jahrgang 1956",Chris
 Höri,"-  Anita Utzinger, Finanz- u. Liegenschaftenvorständin, parteilos, Jahrgang 1982",Anita Utzinger,1982,w,parteilos,,,,,x
 Höri,"-  Walter Maag, Sicherheitsvorstand/Forst- u. Landwirtschaftsvorstand, SVP, Jahrgang 1959",Walter Maag,1959,m,SVP,,Wird nächstens abtreten,,,x
 Lindau,Bernard Hosang,Bernard Hosang,1966,m,FDP,chair,,,,x
-Lindau,Lienhard Pia,Lienhard Pia,1973,w,FDP,,,,,x
+Lindau,Lienhard Pia,Pia Lienhard,1973,w,FDP,,,,,x
 Lindau,Esther Elmer,Esther Elmer,1966,w,SP,,,,,x
 Lindau,Claudio Stutz,Claudio Stutz,1965,m,SVP,,,,,x
 Lindau,Susanne Sorg-Keller,Susanne Sorg-Keller,1954,w,FDP,,,,,x
@@ -675,7 +674,7 @@ Hausen am Albis,Beatrice Sommerauer,Beatrice Sommerauer,1962,w,SVP,,,,,x
 Hausen am Albis,Andrea Sidler,Andrea Sidler,1966,w,SP,,,,,x
 Hausen am Albis,Christoph Tandler,Christoph Tandler,1961,m,parteilos,,,,,x
 Hausen am Albis,Peter Reichmuth,Peter Reichmuth,1950,m,parteilos,,,,,x
-Hausen am Albis,Reto Brönnimann,Reto Brönnimann,1964,,FDP,,,,,x
+Hausen am Albis,Reto Brönnimann,Reto Brönnimann,1964,m,FDP,,,,,x
 Hittnau,Zinsli Claudio: 1963,Claudio Zinsli,1963,m,FDP,,,,,x
 Hittnau,-  Meyer Daniel: 1961,Daniel Meyer,1961,m,SVP,,,,,x
 Hittnau,-  Hächler Carlo: 1953,Carlo Hächler,1953,m,FDP,chair,,,,x
@@ -818,8 +817,8 @@ Wädenswil,Erni Jonas,Jonas Erni,1981,m,SP,,,,,x
 Wädenswil,Furrer Astrid,Astrid Furrer,1968,w,FDP,,,,,x
 Wädenswil,Hauser Heini,Heini Hauser,1957,m,SVP,,,,,x
 Wädenswil,Münch Walter,Walter Münch,1957,m,FDP,,,,,x
-Wetzikon (ZH),Ruedi Rüfenacht,Rüfenacht Ruedi ,1964,m,EVP,chair,,,,x
-Wetzikon (ZH),Marco Martino,Martino Marco,1967,m,SVP,,,,,x
+Wetzikon (ZH),Ruedi Rüfenacht,Ruedi Rüfenacht,1964,m,EVP,chair,,,,x
+Wetzikon (ZH),Marco Martino,Marco Martino,1967,m,SVP,,,,,x
 Wetzikon (ZH),Heinrich Vettiger,Heinrich Vettiger,1953,m,SVP,,,,,x
 Wetzikon (ZH),Jürg Schuler,Jürg Schuler,1952,m,FDP,,,,,x
 Wetzikon (ZH),Pascal Bassu,Pascal Bassu,1969,m,SP,,,,,x
