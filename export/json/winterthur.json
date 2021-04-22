@@ -1,1 +1,584 @@
-{"name": "Winterthur", "bfs": 230, "altersstruktur": {"0": {"count": 1201, "represented": false}, "1": {"count": 1260, "represented": false}, "2": {"count": 1238, "represented": false}, "3": {"count": 1293, "represented": false}, "4": {"count": 1210, "represented": false}, "5": {"count": 1239, "represented": false}, "6": {"count": 1172, "represented": false}, "7": {"count": 1170, "represented": false}, "8": {"count": 1140, "represented": false}, "9": {"count": 1160, "represented": false}, "10": {"count": 1195, "represented": false}, "11": {"count": 1109, "represented": false}, "12": {"count": 1109, "represented": false}, "13": {"count": 1056, "represented": false}, "14": {"count": 1145, "represented": false}, "15": {"count": 1073, "represented": false}, "16": {"count": 1025, "represented": false}, "17": {"count": 987, "represented": false}, "18": {"count": 1003, "represented": false}, "19": {"count": 986, "represented": false}, "20": {"count": 1099, "represented": false}, "21": {"count": 1118, "represented": false}, "22": {"count": 1293, "represented": false}, "23": {"count": 1404, "represented": false}, "24": {"count": 1517, "represented": false}, "25": {"count": 1669, "represented": false}, "26": {"count": 1818, "represented": false}, "27": {"count": 1965, "represented": false}, "28": {"count": 2056, "represented": false}, "29": {"count": 2138, "represented": false}, "30": {"count": 2133, "represented": false}, "31": {"count": 2097, "represented": false}, "32": {"count": 2066, "represented": false}, "33": {"count": 2138, "represented": false}, "34": {"count": 1939, "represented": false}, "35": {"count": 1949, "represented": false}, "36": {"count": 1879, "represented": false}, "37": {"count": 1927, "represented": true}, "38": {"count": 1876, "represented": true}, "39": {"count": 1817, "represented": true}, "40": {"count": 1740, "represented": true}, "41": {"count": 1666, "represented": true}, "42": {"count": 1692, "represented": true}, "43": {"count": 1544, "represented": true}, "44": {"count": 1508, "represented": true}, "45": {"count": 1477, "represented": true}, "46": {"count": 1441, "represented": true}, "47": {"count": 1513, "represented": true}, "48": {"count": 1431, "represented": true}, "49": {"count": 1482, "represented": true}, "50": {"count": 1549, "represented": true}, "51": {"count": 1510, "represented": true}, "52": {"count": 1541, "represented": true}, "53": {"count": 1502, "represented": true}, "54": {"count": 1598, "represented": true}, "55": {"count": 1616, "represented": true}, "56": {"count": 1581, "represented": true}, "57": {"count": 1561, "represented": true}, "58": {"count": 1394, "represented": true}, "59": {"count": 1383, "represented": true}, "60": {"count": 1340, "represented": true}, "61": {"count": 1227, "represented": true}, "62": {"count": 1236, "represented": false}, "63": {"count": 1121, "represented": false}, "64": {"count": 1095, "represented": false}, "65": {"count": 1050, "represented": false}, "66": {"count": 991, "represented": false}, "67": {"count": 932, "represented": false}, "68": {"count": 949, "represented": false}, "69": {"count": 875, "represented": false}, "70": {"count": 893, "represented": false}, "71": {"count": 849, "represented": false}, "72": {"count": 885, "represented": false}, "73": {"count": 864, "represented": false}, "74": {"count": 859, "represented": false}, "75": {"count": 827, "represented": false}, "76": {"count": 852, "represented": false}, "77": {"count": 753, "represented": false}, "78": {"count": 787, "represented": false}, "79": {"count": 680, "represented": false}, "80": {"count": 640, "represented": false}, "81": {"count": 585, "represented": false}, "82": {"count": 554, "represented": false}, "83": {"count": 493, "represented": false}, "84": {"count": 482, "represented": false}, "85": {"count": 423, "represented": false}, "86": {"count": 408, "represented": false}, "87": {"count": 369, "represented": false}, "88": {"count": 326, "represented": false}, "89": {"count": 269, "represented": false}, "90": {"count": 237, "represented": false}, "91": {"count": 227, "represented": false}, "92": {"count": 155, "represented": false}, "93": {"count": 130, "represented": false}, "94": {"count": 100, "represented": false}, "95": {"count": 77, "represented": false}, "96": {"count": 47, "represented": false}, "97": {"count": 28, "represented": false}, "98": {"count": 27, "represented": false}, "99": {"count": 20, "represented": false}, "100": {"count": 27, "represented": false}}, "personen": [{"name": "Michael K\u00fcnzle", "jahrgang": 1965, "partei": "CVP", "geschlecht": "m"}, {"name": "Christa Meier", "jahrgang": 1972, "partei": "SP", "geschlecht": "w"}, {"name": "Kaspar Bopp", "jahrgang": 1979, "partei": "SP", "geschlecht": "m"}, {"name": "Katrin Cometta", "jahrgang": 1975, "partei": "glp", "geschlecht": "w"}, {"name": "Stefan Fritschi", "jahrgang": 1972, "partei": "FDP", "geschlecht": "m"}, {"name": "Nicolas Gallad\u00e9", "jahrgang": 1975, "partei": "SP", "geschlecht": "m"}, {"name": "J\u00fcrg Altwegg", "jahrgang": 1970, "partei": "Gr\u00fcne", "geschlecht": "m"}]}
+{
+    "name": "Winterthur",
+    "bfs": 230,
+    "altersstruktur": [
+        {
+            "age": 0,
+            "count": 1201,
+            "represented": false
+        },
+        {
+            "age": 1,
+            "count": 1260,
+            "represented": false
+        },
+        {
+            "age": 2,
+            "count": 1238,
+            "represented": false
+        },
+        {
+            "age": 3,
+            "count": 1293,
+            "represented": false
+        },
+        {
+            "age": 4,
+            "count": 1210,
+            "represented": false
+        },
+        {
+            "age": 5,
+            "count": 1239,
+            "represented": false
+        },
+        {
+            "age": 6,
+            "count": 1172,
+            "represented": false
+        },
+        {
+            "age": 7,
+            "count": 1170,
+            "represented": false
+        },
+        {
+            "age": 8,
+            "count": 1140,
+            "represented": false
+        },
+        {
+            "age": 9,
+            "count": 1160,
+            "represented": false
+        },
+        {
+            "age": 10,
+            "count": 1195,
+            "represented": false
+        },
+        {
+            "age": 11,
+            "count": 1109,
+            "represented": false
+        },
+        {
+            "age": 12,
+            "count": 1109,
+            "represented": false
+        },
+        {
+            "age": 13,
+            "count": 1056,
+            "represented": false
+        },
+        {
+            "age": 14,
+            "count": 1145,
+            "represented": false
+        },
+        {
+            "age": 15,
+            "count": 1073,
+            "represented": false
+        },
+        {
+            "age": 16,
+            "count": 1025,
+            "represented": false
+        },
+        {
+            "age": 17,
+            "count": 987,
+            "represented": false
+        },
+        {
+            "age": 18,
+            "count": 1003,
+            "represented": false
+        },
+        {
+            "age": 19,
+            "count": 986,
+            "represented": false
+        },
+        {
+            "age": 20,
+            "count": 1099,
+            "represented": false
+        },
+        {
+            "age": 21,
+            "count": 1118,
+            "represented": false
+        },
+        {
+            "age": 22,
+            "count": 1293,
+            "represented": false
+        },
+        {
+            "age": 23,
+            "count": 1404,
+            "represented": false
+        },
+        {
+            "age": 24,
+            "count": 1517,
+            "represented": false
+        },
+        {
+            "age": 25,
+            "count": 1669,
+            "represented": false
+        },
+        {
+            "age": 26,
+            "count": 1818,
+            "represented": false
+        },
+        {
+            "age": 27,
+            "count": 1965,
+            "represented": false
+        },
+        {
+            "age": 28,
+            "count": 2056,
+            "represented": false
+        },
+        {
+            "age": 29,
+            "count": 2138,
+            "represented": false
+        },
+        {
+            "age": 30,
+            "count": 2133,
+            "represented": false
+        },
+        {
+            "age": 31,
+            "count": 2097,
+            "represented": false
+        },
+        {
+            "age": 32,
+            "count": 2066,
+            "represented": false
+        },
+        {
+            "age": 33,
+            "count": 2138,
+            "represented": false
+        },
+        {
+            "age": 34,
+            "count": 1939,
+            "represented": false
+        },
+        {
+            "age": 35,
+            "count": 1949,
+            "represented": false
+        },
+        {
+            "age": 36,
+            "count": 1879,
+            "represented": false
+        },
+        {
+            "age": 37,
+            "count": 1927,
+            "represented": true
+        },
+        {
+            "age": 38,
+            "count": 1876,
+            "represented": true
+        },
+        {
+            "age": 39,
+            "count": 1817,
+            "represented": true
+        },
+        {
+            "age": 40,
+            "count": 1740,
+            "represented": true
+        },
+        {
+            "age": 41,
+            "count": 1666,
+            "represented": true
+        },
+        {
+            "age": 42,
+            "count": 1692,
+            "represented": true
+        },
+        {
+            "age": 43,
+            "count": 1544,
+            "represented": true
+        },
+        {
+            "age": 44,
+            "count": 1508,
+            "represented": true
+        },
+        {
+            "age": 45,
+            "count": 1477,
+            "represented": true
+        },
+        {
+            "age": 46,
+            "count": 1441,
+            "represented": true
+        },
+        {
+            "age": 47,
+            "count": 1513,
+            "represented": true
+        },
+        {
+            "age": 48,
+            "count": 1431,
+            "represented": true
+        },
+        {
+            "age": 49,
+            "count": 1482,
+            "represented": true
+        },
+        {
+            "age": 50,
+            "count": 1549,
+            "represented": true
+        },
+        {
+            "age": 51,
+            "count": 1510,
+            "represented": true
+        },
+        {
+            "age": 52,
+            "count": 1541,
+            "represented": true
+        },
+        {
+            "age": 53,
+            "count": 1502,
+            "represented": true
+        },
+        {
+            "age": 54,
+            "count": 1598,
+            "represented": true
+        },
+        {
+            "age": 55,
+            "count": 1616,
+            "represented": true
+        },
+        {
+            "age": 56,
+            "count": 1581,
+            "represented": true
+        },
+        {
+            "age": 57,
+            "count": 1561,
+            "represented": true
+        },
+        {
+            "age": 58,
+            "count": 1394,
+            "represented": true
+        },
+        {
+            "age": 59,
+            "count": 1383,
+            "represented": true
+        },
+        {
+            "age": 60,
+            "count": 1340,
+            "represented": true
+        },
+        {
+            "age": 61,
+            "count": 1227,
+            "represented": true
+        },
+        {
+            "age": 62,
+            "count": 1236,
+            "represented": false
+        },
+        {
+            "age": 63,
+            "count": 1121,
+            "represented": false
+        },
+        {
+            "age": 64,
+            "count": 1095,
+            "represented": false
+        },
+        {
+            "age": 65,
+            "count": 1050,
+            "represented": false
+        },
+        {
+            "age": 66,
+            "count": 991,
+            "represented": false
+        },
+        {
+            "age": 67,
+            "count": 932,
+            "represented": false
+        },
+        {
+            "age": 68,
+            "count": 949,
+            "represented": false
+        },
+        {
+            "age": 69,
+            "count": 875,
+            "represented": false
+        },
+        {
+            "age": 70,
+            "count": 893,
+            "represented": false
+        },
+        {
+            "age": 71,
+            "count": 849,
+            "represented": false
+        },
+        {
+            "age": 72,
+            "count": 885,
+            "represented": false
+        },
+        {
+            "age": 73,
+            "count": 864,
+            "represented": false
+        },
+        {
+            "age": 74,
+            "count": 859,
+            "represented": false
+        },
+        {
+            "age": 75,
+            "count": 827,
+            "represented": false
+        },
+        {
+            "age": 76,
+            "count": 852,
+            "represented": false
+        },
+        {
+            "age": 77,
+            "count": 753,
+            "represented": false
+        },
+        {
+            "age": 78,
+            "count": 787,
+            "represented": false
+        },
+        {
+            "age": 79,
+            "count": 680,
+            "represented": false
+        },
+        {
+            "age": 80,
+            "count": 640,
+            "represented": false
+        },
+        {
+            "age": 81,
+            "count": 585,
+            "represented": false
+        },
+        {
+            "age": 82,
+            "count": 554,
+            "represented": false
+        },
+        {
+            "age": 83,
+            "count": 493,
+            "represented": false
+        },
+        {
+            "age": 84,
+            "count": 482,
+            "represented": false
+        },
+        {
+            "age": 85,
+            "count": 423,
+            "represented": false
+        },
+        {
+            "age": 86,
+            "count": 408,
+            "represented": false
+        },
+        {
+            "age": 87,
+            "count": 369,
+            "represented": false
+        },
+        {
+            "age": 88,
+            "count": 326,
+            "represented": false
+        },
+        {
+            "age": 89,
+            "count": 269,
+            "represented": false
+        },
+        {
+            "age": 90,
+            "count": 237,
+            "represented": false
+        },
+        {
+            "age": 91,
+            "count": 227,
+            "represented": false
+        },
+        {
+            "age": 92,
+            "count": 155,
+            "represented": false
+        },
+        {
+            "age": 93,
+            "count": 130,
+            "represented": false
+        },
+        {
+            "age": 94,
+            "count": 100,
+            "represented": false
+        },
+        {
+            "age": 95,
+            "count": 77,
+            "represented": false
+        },
+        {
+            "age": 96,
+            "count": 47,
+            "represented": false
+        },
+        {
+            "age": 97,
+            "count": 28,
+            "represented": false
+        },
+        {
+            "age": 98,
+            "count": 27,
+            "represented": false
+        },
+        {
+            "age": 99,
+            "count": 20,
+            "represented": false
+        }
+    ],
+    "personen": [
+        {
+            "alter": 56,
+            "values": [
+                "Michael Künzle (1970, Grüne)"
+            ]
+        },
+        {
+            "alter": 51,
+            "values": [
+                "Jürg Altwegg (1970, Grüne)"
+            ]
+        },
+        {
+            "alter": 49,
+            "values": [
+                "Christa Meier (1970, Grüne)",
+                "Stefan Fritschi (1970, Grüne)"
+            ]
+        },
+        {
+            "alter": 46,
+            "values": [
+                "Katrin Cometta (1970, Grüne)",
+                "Nicolas Galladé (1970, Grüne)"
+            ]
+        },
+        {
+            "alter": 42,
+            "values": [
+                "Kaspar Bopp (1970, Grüne)"
+            ]
+        }
+    ],
+    "personen2": [
+        {
+            "name": "Michael Künzle",
+            "jahrgang": 1965,
+            "partei": "CVP",
+            "geschlecht": "m"
+        },
+        {
+            "name": "Christa Meier",
+            "jahrgang": 1972,
+            "partei": "SP",
+            "geschlecht": "w"
+        },
+        {
+            "name": "Kaspar Bopp",
+            "jahrgang": 1979,
+            "partei": "SP",
+            "geschlecht": "m"
+        },
+        {
+            "name": "Katrin Cometta",
+            "jahrgang": 1975,
+            "partei": "glp",
+            "geschlecht": "w"
+        },
+        {
+            "name": "Stefan Fritschi",
+            "jahrgang": 1972,
+            "partei": "FDP",
+            "geschlecht": "m"
+        },
+        {
+            "name": "Nicolas Galladé",
+            "jahrgang": 1975,
+            "partei": "SP",
+            "geschlecht": "m"
+        },
+        {
+            "name": "Jürg Altwegg",
+            "jahrgang": 1970,
+            "partei": "Grüne",
+            "geschlecht": "m"
+        }
+    ]
+}
