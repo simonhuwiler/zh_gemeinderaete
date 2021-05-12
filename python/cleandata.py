@@ -1,6 +1,18 @@
 import pandas as pd
 import numpy as np
 
+# Add partei_clean
+def transform_partei(p):
+
+    if type(p) == str:
+        p = p.lower()
+
+    if p == 'die mitte': p = 'cvp'
+
+    if p in ['parteilos', 'fdp', 'evp', 'svp', 'sp', 'cvp', 'glp', 'grüne', 'bdp', 'al', 'edu']:
+        return p
+    return 'verschiedene'
+
 def clean(df):
     # Transform data
     df.loc[df.partei_nicht_zugeordnet == 1, 'partei_nicht_zugeordnet'] = True
@@ -18,17 +30,7 @@ def clean(df):
     
     # Clean Party
     
-    # Add partei_clean
-    def transform_partei(p):
 
-        if type(p) == str:
-            p = p.lower()
-
-        if p == 'die mitte': p = 'cvp'
-
-        if p in ['parteilos', 'fdp', 'evp', 'svp', 'sp', 'cvp', 'glp', 'grüne', 'bdp', 'al', 'edu']:
-            return p
-        return 'verschiedene'
 
     df['partei_c'] = df['Partei'].apply(transform_partei)
     
