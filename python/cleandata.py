@@ -29,9 +29,6 @@ def clean(df):
     print("Keine Jahrgänge: %s" % len(df[df.Jahrgang.isna()]))
     
     # Clean Party
-    
-
-
     df['partei_c'] = df['Partei'].apply(transform_partei)
     
     return df
