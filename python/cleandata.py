@@ -18,7 +18,7 @@ def clean(df):
     df.loc[df.partei_nicht_zugeordnet == 1, 'partei_nicht_zugeordnet'] = True
     df['partei_nicht_zugeordnet'] = df['partei_nicht_zugeordnet'].fillna(False)
 
-    df[df.jahrgang_nicht_zugeordnet == 1] = True
+    df.loc[df.jahrgang_nicht_zugeordnet == 1, 'jahrgang_nicht_zugeordnet'] = True
     df['jahrgang_nicht_zugeordnet'] = df['jahrgang_nicht_zugeordnet'].fillna(False)
 
     # Alter berechnen
