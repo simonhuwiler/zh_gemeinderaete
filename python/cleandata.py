@@ -30,5 +30,6 @@ def clean(df):
     
     # Clean Party
     df['partei_c'] = df['Partei'].apply(transform_partei)
+    df.loc[df.Name.str.lower() == 'vakant', 'partei_c'] = 'vacant'
     
     return df
