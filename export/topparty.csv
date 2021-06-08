@@ -1,0 +1,168 @@
+,BFS,GEMEINDENAME,topparty,id,party,info
+0,216,Dinhard,svp,216,SVP,In <b>Dinhard</b> dominiert die <b>SVP</b>.
+1,172,Fehraltorf,multiple,172,Keine Dominanz,Keine dominierende Partei in <b>Fehraltorf</b>.
+2,31,Henggart,parteilos,31,Parteilos,In <b>Henggart</b> dominieren <b>parteilose</b>.
+3,33,Kleinandelfingen,multiple,33,Keine Dominanz,Keine dominierende Partei in <b>Kleinandelfingen</b>.
+4,94,Otelfingen,multiple,94,Keine Dominanz,Keine dominierende Partei in <b>Otelfingen</b>.
+5,2,Affoltern am Albis,multiple,2,Keine Dominanz,Keine dominierende Partei in <b>Affoltern am Albis</b>.
+6,58,Glattfelden,multiple,58,Keine Dominanz,Keine dominierende Partei in <b>Glattfelden</b>.
+7,191,Dübendorf,multiple,191,Keine Dominanz,Keine dominierende Partei in <b>Dübendorf</b>.
+8,0, ,,0,,In <b> </b> dominiert die <b>nan</b>.
+9,197,Schwerzenbach,parteilos,197,Parteilos,In <b>Schwerzenbach</b> dominieren <b>parteilose</b>.
+10,194,Greifensee,verschiedene,194,Kleinstpartei,In <b>Greifensee</b> dominiert eine <b>Kleinstpartei</b>.
+11,64,Nürensdorf,multiple,64,Keine Dominanz,Keine dominierende Partei in <b>Nürensdorf</b>.
+12,65,Oberembrach,parteilos,65,Parteilos,In <b>Oberembrach</b> dominieren <b>parteilose</b>.
+13,213,Brütten,multiple,213,Keine Dominanz,Keine dominierende Partei in <b>Brütten</b>.
+14,215,Dättlikon,parteilos,215,Parteilos,In <b>Dättlikon</b> dominieren <b>parteilose</b>.
+15,223,Neftenbach,multiple,223,Keine Dominanz,Keine dominierende Partei in <b>Neftenbach</b>.
+16,38,Rheinau,multiple,38,Keine Dominanz,Keine dominierende Partei in <b>Rheinau</b>.
+17,218,Ellikon an der Thur,parteilos,218,Parteilos,In <b>Ellikon an der Thur</b> dominieren <b>parteilose</b>.
+18,294,Elgg,svp,294,SVP,In <b>Elgg</b> dominiert die <b>SVP</b>.
+19,153,Hombrechtikon,fdp,153,FDP,In <b>Hombrechtikon</b> dominiert die <b>FDP</b>.
+20,115,Gossau (ZH),multiple,115,Keine Dominanz,Keine dominierende Partei in <b>Gossau (ZH)</b>.
+21,30,Andelfingen,parteilos,30,Parteilos,In <b>Andelfingen</b> dominieren <b>parteilose</b>.
+22,41,Truttikon,parteilos,41,Parteilos,In <b>Truttikon</b> dominieren <b>parteilose</b>.
+23,250,Urdorf,fdp,250,FDP,In <b>Urdorf</b> dominiert die <b>FDP</b>.
+24,242,Birmensdorf (ZH),multiple,242,Keine Dominanz,Keine dominierende Partei in <b>Birmensdorf (ZH)</b>.
+25,91,Niederweningen,parteilos,91,Parteilos,In <b>Niederweningen</b> dominieren <b>parteilose</b>.
+26,96,Regensdorf,multiple,96,Keine Dominanz,Keine dominierende Partei in <b>Regensdorf</b>.
+27,100,Stadel,parteilos,100,Parteilos,In <b>Stadel</b> dominieren <b>parteilose</b>.
+28,97,Rümlang,svp,97,SVP,In <b>Rümlang</b> dominiert die <b>SVP</b>.
+29,68,Rorbas,svp,68,SVP,In <b>Rorbas</b> dominiert die <b>SVP</b>.
+30,57,Freienstein-Teufen,parteilos,57,Parteilos,In <b>Freienstein-Teufen</b> dominieren <b>parteilose</b>.
+31,28,Flaach,parteilos,28,Parteilos,In <b>Flaach</b> dominieren <b>parteilose</b>.
+32,193,Fällanden,parteilos,193,Parteilos,In <b>Fällanden</b> dominieren <b>parteilose</b>.
+33,54,Dietlikon,multiple,54,Keine Dominanz,Keine dominierende Partei in <b>Dietlikon</b>.
+34,176,Lindau,fdp,176,FDP,In <b>Lindau</b> dominiert die <b>FDP</b>.
+35,22,Benken (ZH),parteilos,22,Parteilos,In <b>Benken (ZH)</b> dominieren <b>parteilose</b>.
+36,221,Hettlingen,multiple,221,Keine Dominanz,Keine dominierende Partei in <b>Hettlingen</b>.
+37,211,Altikon,parteilos,211,Parteilos,In <b>Altikon</b> dominieren <b>parteilose</b>.
+38,219,Elsau,fdp,219,FDP,In <b>Elsau</b> dominiert die <b>FDP</b>.
+39,117,Hinwil,multiple,117,Keine Dominanz,Keine dominierende Partei in <b>Hinwil</b>.
+40,173,Hittnau,fdp,173,FDP,In <b>Hittnau</b> dominiert die <b>FDP</b>.
+41,297,Bauma,parteilos,297,Parteilos,In <b>Bauma</b> dominieren <b>parteilose</b>.
+42,112,Bubikon,fdp,112,FDP,In <b>Bubikon</b> dominiert die <b>FDP</b>.
+43,178,Russikon,svp,178,SVP,In <b>Russikon</b> dominiert die <b>SVP</b>.
+44,231,Zell (ZH),multiple,231,Keine Dominanz,Keine dominierende Partei in <b>Zell (ZH)</b>.
+45,32,Humlikon,parteilos,32,Parteilos,In <b>Humlikon</b> dominieren <b>parteilose</b>.
+46,158,Stäfa,fdp,158,FDP,In <b>Stäfa</b> dominiert die <b>FDP</b>.
+47,11,Ottenbach,parteilos,11,Parteilos,In <b>Ottenbach</b> dominieren <b>parteilose</b>.
+48,244,Geroldswil,fdp,244,FDP,In <b>Geroldswil</b> dominiert die <b>FDP</b>.
+49,98,Schleinikon,parteilos,98,Parteilos,In <b>Schleinikon</b> dominieren <b>parteilose</b>.
+50,8,Maschwanden,parteilos,8,Parteilos,In <b>Maschwanden</b> dominieren <b>parteilose</b>.
+51,12,Rifferswil,parteilos,12,Parteilos,In <b>Rifferswil</b> dominieren <b>parteilose</b>.
+52,247,Schlieren,sp,247,sp,In <b>Schlieren</b> dominiert die <b>sp</b>.
+53,84,Dällikon,svp,84,SVP,In <b>Dällikon</b> dominiert die <b>SVP</b>.
+54,245,Oberengstringen,svp,245,SVP,In <b>Oberengstringen</b> dominiert die <b>SVP</b>.
+55,137,Oberrieden,fdp,137,FDP,In <b>Oberrieden</b> dominiert die <b>FDP</b>.
+56,154,Küsnacht (ZH),fdp,154,FDP,In <b>Küsnacht (ZH)</b> dominiert die <b>FDP</b>.
+57,35,Marthalen,parteilos,35,Parteilos,In <b>Marthalen</b> dominieren <b>parteilose</b>.
+58,34,Laufen-Uhwiesen,parteilos,34,Parteilos,In <b>Laufen-Uhwiesen</b> dominieren <b>parteilose</b>.
+59,227,Seuzach,fdp,227,FDP,In <b>Seuzach</b> dominiert die <b>FDP</b>.
+60,230,Winterthur,sp,230,sp,In <b>Winterthur</b> dominiert die <b>sp</b>.
+61,225,Rickenbach (ZH),parteilos,225,Parteilos,In <b>Rickenbach (ZH)</b> dominieren <b>parteilose</b>.
+62,114,Fischenthal,parteilos,114,Parteilos,In <b>Fischenthal</b> dominieren <b>parteilose</b>.
+63,214,Dägerlen,parteilos,214,Parteilos,In <b>Dägerlen</b> dominieren <b>parteilose</b>.
+64,243,Dietikon,cvp,243,CVP,In <b>Dietikon</b> dominiert die <b>CVP</b>.
+65,87,Hüttikon,parteilos,87,Parteilos,In <b>Hüttikon</b> dominieren <b>parteilose</b>.
+66,85,Dänikon,multiple,85,Keine Dominanz,Keine dominierende Partei in <b>Dänikon</b>.
+67,93,Oberweningen,parteilos,93,Parteilos,In <b>Oberweningen</b> dominieren <b>parteilose</b>.
+68,82,Boppelsen,svp,82,SVP,In <b>Boppelsen</b> dominiert die <b>SVP</b>.
+69,7,Knonau,parteilos,7,Parteilos,In <b>Knonau</b> dominieren <b>parteilose</b>.
+70,9,Mettmenstetten,parteilos,9,Parteilos,In <b>Mettmenstetten</b> dominieren <b>parteilose</b>.
+71,241,Aesch (ZH),svp,241,SVP,In <b>Aesch (ZH)</b> dominiert die <b>SVP</b>.
+72,5,Hedingen,fdp,5,FDP,In <b>Hedingen</b> dominiert die <b>FDP</b>.
+73,0, ,,0,,In <b> </b> dominiert die <b>nan</b>.
+74,251,Weiningen (ZH),svp,251,SVP,In <b>Weiningen (ZH)</b> dominiert die <b>SVP</b>.
+75,83,Buchs (ZH),parteilos,83,Parteilos,In <b>Buchs (ZH)</b> dominieren <b>parteilose</b>.
+76,59,Hochfelden,multiple,59,Keine Dominanz,Keine dominierende Partei in <b>Hochfelden</b>.
+77,55,Eglisau,parteilos,55,Parteilos,In <b>Eglisau</b> dominieren <b>parteilose</b>.
+78,58,Glattfelden,multiple,58,Keine Dominanz,Keine dominierende Partei in <b>Glattfelden</b>.
+79,66,Opfikon,fdp,66,FDP,In <b>Opfikon</b> dominiert die <b>FDP</b>.
+80,72,Winkel,svp,72,SVP,In <b>Winkel</b> dominiert die <b>SVP</b>.
+81,138,Richterswil,fdp,138,FDP,In <b>Richterswil</b> dominiert die <b>FDP</b>.
+82,200,Wangen-Brüttisellen,multiple,200,Keine Dominanz,Keine dominierende Partei in <b>Wangen-Brüttisellen</b>.
+83,24,Buch am Irchel,parteilos,24,Parteilos,In <b>Buch am Irchel</b> dominieren <b>parteilose</b>.
+84,155,Männedorf,fdp,155,FDP,In <b>Männedorf</b> dominiert die <b>FDP</b>.
+85,157,Oetwil am See,parteilos,157,Parteilos,In <b>Oetwil am See</b> dominieren <b>parteilose</b>.
+86,196,Mönchaltorf,multiple,196,Keine Dominanz,Keine dominierende Partei in <b>Mönchaltorf</b>.
+87,0, ,,0,,In <b> </b> dominiert die <b>nan</b>.
+88,196,Mönchaltorf,multiple,196,Keine Dominanz,Keine dominierende Partei in <b>Mönchaltorf</b>.
+89,177,Pfäffikon,multiple,177,Keine Dominanz,Keine dominierende Partei in <b>Pfäffikon</b>.
+90,180,Weisslingen,verschiedene,180,Kleinstpartei,In <b>Weisslingen</b> dominiert eine <b>Kleinstpartei</b>.
+91,95,Regensberg,parteilos,95,Parteilos,In <b>Regensberg</b> dominieren <b>parteilose</b>.
+92,1,Aeugst am Albis,multiple,1,Keine Dominanz,Keine dominierende Partei in <b>Aeugst am Albis</b>.
+93,249,Unterengstringen,multiple,249,Keine Dominanz,Keine dominierende Partei in <b>Unterengstringen</b>.
+94,101,Steinmaur,parteilos,101,Parteilos,In <b>Steinmaur</b> dominieren <b>parteilose</b>.
+95,70,Wasterkingen,parteilos,70,Parteilos,In <b>Wasterkingen</b> dominieren <b>parteilose</b>.
+96,136,Langnau am Albis,fdp,136,FDP,In <b>Langnau am Albis</b> dominiert die <b>FDP</b>.
+97,4,Hausen am Albis,multiple,4,Keine Dominanz,Keine dominierende Partei in <b>Hausen am Albis</b>.
+98,131,Adliswil,fdp,131,FDP,In <b>Adliswil</b> dominiert die <b>FDP</b>.
+99,135,Kilchberg (ZH),multiple,135,Keine Dominanz,Keine dominierende Partei in <b>Kilchberg (ZH)</b>.
+100,139,Rüschlikon,multiple,139,Keine Dominanz,Keine dominierende Partei in <b>Rüschlikon</b>.
+101,56,Embrach,multiple,56,Keine Dominanz,Keine dominierende Partei in <b>Embrach</b>.
+102,293,Wädenswil,multiple,293,Keine Dominanz,Keine dominierende Partei in <b>Wädenswil</b>.
+103,292,Stammheim,parteilos,292,Parteilos,In <b>Stammheim</b> dominieren <b>parteilose</b>.
+104,113,Dürnten,multiple,113,Keine Dominanz,Keine dominierende Partei in <b>Dürnten</b>.
+105,118,Rüti (ZH),multiple,118,Keine Dominanz,Keine dominierende Partei in <b>Rüti (ZH)</b>.
+106,111,Bäretswil,svp,111,SVP,In <b>Bäretswil</b> dominiert die <b>SVP</b>.
+107,181,Wila,parteilos,181,Parteilos,In <b>Wila</b> dominieren <b>parteilose</b>.
+108,116,Grüningen,multiple,116,Keine Dominanz,Keine dominierende Partei in <b>Grüningen</b>.
+109,119,Seegräben,parteilos,119,Parteilos,In <b>Seegräben</b> dominieren <b>parteilose</b>.
+110,296,Illnau-Effretikon,multiple,296,Keine Dominanz,Keine dominierende Partei in <b>Illnau-Effretikon</b>.
+111,37,Ossingen,multiple,37,Keine Dominanz,Keine dominierende Partei in <b>Ossingen</b>.
+112,10,Obfelden,parteilos,10,Parteilos,In <b>Obfelden</b> dominieren <b>parteilose</b>.
+113,246,Oetwil an der Limmat,multiple,246,Keine Dominanz,Keine dominierende Partei in <b>Oetwil an der Limmat</b>.
+114,6,Kappel am Albis,parteilos,6,Parteilos,In <b>Kappel am Albis</b> dominieren <b>parteilose</b>.
+115,13,Stallikon,multiple,13,Keine Dominanz,Keine dominierende Partei in <b>Stallikon</b>.
+116,88,Neerach,parteilos,88,Parteilos,In <b>Neerach</b> dominieren <b>parteilose</b>.
+117,161,Zollikon,fdp,161,FDP,In <b>Zollikon</b> dominiert die <b>FDP</b>.
+118,92,Oberglatt,parteilos,92,Parteilos,In <b>Oberglatt</b> dominieren <b>parteilose</b>.
+119,51,Bachenbülach,fdp,51,FDP,In <b>Bachenbülach</b> dominiert die <b>FDP</b>.
+120,156,Meilen,fdp,156,FDP,In <b>Meilen</b> dominiert die <b>FDP</b>.
+121,151,Erlenbach (ZH),multiple,151,Keine Dominanz,Keine dominierende Partei in <b>Erlenbach (ZH)</b>.
+122,160,Zumikon,fdp,160,FDP,In <b>Zumikon</b> dominiert die <b>FDP</b>.
+123,26,Dorf,parteilos,26,Parteilos,In <b>Dorf</b> dominieren <b>parteilose</b>.
+124,39,Thalheim an der Thur,parteilos,39,Parteilos,In <b>Thalheim an der Thur</b> dominieren <b>parteilose</b>.
+125,120,Wald (ZH),svp,120,SVP,In <b>Wald (ZH)</b> dominiert die <b>SVP</b>.
+126,182,Wildberg,parteilos,182,Parteilos,In <b>Wildberg</b> dominieren <b>parteilose</b>.
+127,121,Wetzikon (ZH),multiple,121,Keine Dominanz,Keine dominierende Partei in <b>Wetzikon (ZH)</b>.
+128,40,Trüllikon,parteilos,40,Parteilos,In <b>Trüllikon</b> dominieren <b>parteilose</b>.
+129,21,Adlikon,parteilos,21,Parteilos,In <b>Adlikon</b> dominieren <b>parteilose</b>.
+130,99,Schöfflisdorf,parteilos,99,Parteilos,In <b>Schöfflisdorf</b> dominieren <b>parteilose</b>.
+131,14,Wettswil am Albis,parteilos,14,Parteilos,In <b>Wettswil am Albis</b> dominieren <b>parteilose</b>.
+132,3,Bonstetten,parteilos,3,Parteilos,In <b>Bonstetten</b> dominieren <b>parteilose</b>.
+133,261,Zürich,sp,261,sp,In <b>Zürich</b> dominiert die <b>sp</b>.
+134,248,Uitikon,fdp,248,FDP,In <b>Uitikon</b> dominiert die <b>FDP</b>.
+135,89,Niederglatt,svp,89,SVP,In <b>Niederglatt</b> dominiert die <b>SVP</b>.
+136,60,Höri,parteilos,60,Parteilos,In <b>Höri</b> dominieren <b>parteilose</b>.
+137,102,Weiach,parteilos,102,Parteilos,In <b>Weiach</b> dominieren <b>parteilose</b>.
+138,71,Wil (ZH),multiple,71,Keine Dominanz,Keine dominierende Partei in <b>Wil (ZH)</b>.
+139,141,Thalwil,fdp,141,FDP,In <b>Thalwil</b> dominiert die <b>FDP</b>.
+140,63,Lufingen,parteilos,63,Parteilos,In <b>Lufingen</b> dominieren <b>parteilose</b>.
+141,67,Rafz,verschiedene,67,Kleinstpartei,In <b>Rafz</b> dominiert eine <b>Kleinstpartei</b>.
+142,159,Uetikon am See,multiple,159,Keine Dominanz,Keine dominierende Partei in <b>Uetikon am See</b>.
+143,52,Bassersdorf,parteilos,52,Parteilos,In <b>Bassersdorf</b> dominieren <b>parteilose</b>.
+144,43,Volken,parteilos,43,Parteilos,In <b>Volken</b> dominieren <b>parteilose</b>.
+145,298,Wiesendangen,multiple,298,Keine Dominanz,Keine dominierende Partei in <b>Wiesendangen</b>.
+146,220,Hagenbuch,svp,220,SVP,In <b>Hagenbuch</b> dominiert die <b>SVP</b>.
+147,228,Turbenthal,multiple,228,Keine Dominanz,Keine dominierende Partei in <b>Turbenthal</b>.
+148,226,Schlatt (ZH),parteilos,226,Parteilos,In <b>Schlatt (ZH)</b> dominieren <b>parteilose</b>.
+149,81,Bachs,parteilos,81,Parteilos,In <b>Bachs</b> dominieren <b>parteilose</b>.
+150,90,Niederhasli,multiple,90,Keine Dominanz,Keine dominierende Partei in <b>Niederhasli</b>.
+151,86,Dielsdorf,parteilos,86,Parteilos,In <b>Dielsdorf</b> dominieren <b>parteilose</b>.
+152,61,Hüntwangen,svp,61,SVP,In <b>Hüntwangen</b> dominiert die <b>SVP</b>.
+153,295,Horgen,multiple,295,Keine Dominanz,Keine dominierende Partei in <b>Horgen</b>.
+154,69,Wallisellen,svp,69,SVP,In <b>Wallisellen</b> dominiert die <b>SVP</b>.
+155,62,Kloten,svp,62,SVP,In <b>Kloten</b> dominiert die <b>SVP</b>.
+156,53,Bülach,multiple,53,Keine Dominanz,Keine dominierende Partei in <b>Bülach</b>.
+157,23,Berg am Irchel,parteilos,23,Parteilos,In <b>Berg am Irchel</b> dominieren <b>parteilose</b>.
+158,152,Herrliberg,fdp,152,FDP,In <b>Herrliberg</b> dominiert die <b>FDP</b>.
+159,195,Maur,fdp,195,FDP,In <b>Maur</b> dominiert die <b>FDP</b>.
+160,192,Egg,fdp,192,FDP,In <b>Egg</b> dominiert die <b>FDP</b>.
+161,199,Volketswil,multiple,199,Keine Dominanz,Keine dominierende Partei in <b>Volketswil</b>.
+162,224,Pfungen,verschiedene,224,Kleinstpartei,In <b>Pfungen</b> dominiert eine <b>Kleinstpartei</b>.
+163,25,Dachsen,parteilos,25,Parteilos,In <b>Dachsen</b> dominieren <b>parteilose</b>.
+164,29,Flurlingen,parteilos,29,Parteilos,In <b>Flurlingen</b> dominieren <b>parteilose</b>.
+165,27,Feuerthalen,svp,27,SVP,In <b>Feuerthalen</b> dominiert die <b>SVP</b>.
+166,198,Uster,sp,198,sp,In <b>Uster</b> dominiert die <b>sp</b>.
