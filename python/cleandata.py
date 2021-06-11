@@ -78,3 +78,13 @@ def add_bfs(df):
 
     return df
 
+
+def nicelify_party(party):
+    if party == 'multiple': return "Keine Dominanz"
+    if party == 'cvp': return 'CVP/Die Mitte'
+    if party in ['cvp', 'fdp', 'svp', 'evp', 'edu', 'bdp']: return party.upper()
+    if party == 'parteilos': return 'parteilos'
+    if party == 'verschiedene': return 'andere'
+    if party == 'grüne': return 'Grüne'
+    
+    return party
