@@ -9,7 +9,7 @@ Manche Gemeinden haben `Jahrgang` und `Partei` nicht pro Gemeinderat ausgewiesen
 **!!Wichtig 2!!**
 Vakante Sitze wurden mit `Name` *vakant* erfasst.
   
-  
+
 Column | Type | Info
 --- | --- | ---
 **Gemeinde** | `string` | Name der Geemeinde
@@ -24,3 +24,4 @@ Column | Type | Info
 **partei_nicht_zugeordnet** | `bool` | `True` = Partei gehört nicht zwingend zu dieser Person, jedoch zu dieser Gemeinde
 **Gecheckt 2021** | `string` | Daten wurden im 2021 nochmals geprüft
 
+*Stand der Daten: April 2021*
